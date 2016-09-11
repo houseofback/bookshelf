@@ -1,0 +1,7 @@
+baseurl = "http://example.org/"
+languageCode = "en-us"
+title = "Lizi's Blog"
+
+[Params]
+	Author = "Andrew Backhouse"
+	disqusShortname = "House"
